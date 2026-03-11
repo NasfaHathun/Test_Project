@@ -1,0 +1,15 @@
+Team members and project details
+
+Project name : HTML Based Navigation System to find the Dean's office
+
+Member 1 : V.Sathurshan
+Student Id : 2024t02233
+
+Member 2 : A.M Arafath Rahman
+Student Id : 2024t02225
+
+Member 3 : J.Nasfa Hathun
+Student Id : 2024t02200
+Github Repositer:
+URL:https://github.com/NasfaHathun/Test_Project.git
+
